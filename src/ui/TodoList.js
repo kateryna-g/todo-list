@@ -3,7 +3,7 @@ import React from 'react';
 const TodoList = (props) => {
     return (
         <div>
-            <h1>Todo List</h1>
+            <h1>Simple Todo</h1>
             <div><input /><button>+</button></div>
             <ul>
                 <li><input type="checkbox" /> CSS <button>X</button></li>
